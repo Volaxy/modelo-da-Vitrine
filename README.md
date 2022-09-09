@@ -1,17 +1,17 @@
-# Nome do meu projeto
+# #7DaysOfCodeComHTML&CSS
 
-Rápida descrição do objetivo de fazer esse projeto
+Projeto feito com HTML e CSS para aplicar os conceitos aprendidos com essa tecnologia
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :sparkles: Nome        | **#7DaysOfCodeComHTML&CSS**
+| :label: Tecnologias | HTML, CSS (tecnologias utilizadas)
+| :rocket: URL         | https://volaxy.github.io/7_Days_of_Code-HTML_and_CSS/
+| :fire: Desafio     | https://www.alura.com.br/challenges/front-end?host=https://cursos.alura.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![Imagem do site do projeto](https://raw.githubusercontent.com/Volaxy/7_Days_of_Code-HTML_and_CSS/master/images/7daysofcode-website.png)
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+Esse foi um site que foi muito interessante de aprender, pois apliquei bem o conceito do display Flex, e deixei o layout bem limpo e organizado.
